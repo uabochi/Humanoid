@@ -1,7 +1,7 @@
 # Humanoid
-A chatbot mimicking program
-It performs 3 basic fuctions;
+A chatbot mimicking program. 
+It performs 3 basic fuctions; 
 Cuddling
 Interaction
-Errands
+Errands.
 The user will have to choose the service needed from the AI.
